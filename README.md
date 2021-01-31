@@ -1,3 +1,2 @@
-# hello-world
-
-#Hello guys! It's my first time to use github! 
+This project helped me to be familiarize  with how to make a portfolio.
+I'll update each element and add new things as long as i'll learn new tools.
